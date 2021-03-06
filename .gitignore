@@ -1,0 +1,5 @@
+.vscode
+node_modules
+*.pdf
+*.txt
+.DS_Store
